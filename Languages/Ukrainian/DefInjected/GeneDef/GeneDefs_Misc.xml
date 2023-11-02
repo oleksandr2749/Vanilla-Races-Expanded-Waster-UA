@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_ToxAbsorption.label>поглинання токсинів</VRE_ToxAbsorption.label>
+  <VRE_ToxAbsorption.description>Носій цього гена має здатністьпоглинати токсичні гази через шкіру. Сам по собі цей ген не має жодного ефекту, але він збільшує швидкість, з якою інтокискація впливає на залежні від неї гени.</VRE_ToxAbsorption.description>
+
+  <VRE_Instability_Nominal.label>незначна нестабільність клітин</VRE_Instability_Nominal.label>
+  <VRE_Instability_Nominal.description>Носії цього гена потребують трохи менше їжі,  за рахунок зниженої стабільності поділу клітин в організмі.</VRE_Instability_Nominal.description>
+
+  <VRE_Instability_Extreme.label>надзвичайна нестабільність клітин</VRE_Instability_Extreme.label>
+  <VRE_Instability_Extreme.description>Носії цього гена потребують трохи менше їжі,  за рахунок сильно зниженої стабільності поділу клітин в організмі.</VRE_Instability_Extreme.description>
+
+  <VRE_Instability_Progressive.label>прогресуюча нестабільність клітин</VRE_Instability_Progressive.label>
+  <VRE_Instability_Progressive.description>У носіїв цього гена генетичний код з кожним новим поколінням стає все більш нестабільним.</VRE_Instability_Progressive.description>
+
+
+</LanguageData>

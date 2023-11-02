@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_ToxAbsorption.label>гени поглинання токсинів</VRE_ToxAbsorption.label>
+  <VRE_ToxAbsorption.description>Носій цього гена має здатністьпоглинати токсичні гази через шкіру. Сам по собі цей ген не має жодного ефекту, але він збільшує швидкість, з якою інтокискація впливає на залежні від неї гени.</VRE_ToxAbsorption.description>
+
+  <VRE_PollutionRegeneration.label>гени токсичної адаптації тканин</VRE_PollutionRegeneration.label>
+  <VRE_PollutionRegeneration.description>Ці гени призводить до мутації тканин органів й шкіри, від чого токсини в організмі персонажа покращують загоєння.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VRE_PollutionRegeneration.description>
+  <VRE_PollutionRegeneration.stages.0.label>неативні</VRE_PollutionRegeneration.stages.0.label>
+  <VRE_PollutionRegeneration.stages.1.label>слабкі</VRE_PollutionRegeneration.stages.1.label>
+  <VRE_PollutionRegeneration.stages.2.label>середні</VRE_PollutionRegeneration.stages.2.label>
+  <VRE_PollutionRegeneration.stages.3.label>сильні</VRE_PollutionRegeneration.stages.3.label>
+
+  <VRE_PollutionRage.label>гени токсичної адаптації м'язів</VRE_PollutionRage.label>
+  <VRE_PollutionRage.description>Ці гени призводить до мутації м'язів, від чого токсини в організмі персонажа збільшують силу.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VRE_PollutionRage.description>
+  <VRE_PollutionRage.stages.0.label>неативні</VRE_PollutionRage.stages.0.label>
+  <VRE_PollutionRage.stages.1.label>слабкі</VRE_PollutionRage.stages.1.label>
+  <VRE_PollutionRage.stages.2.label>середні</VRE_PollutionRage.stages.2.label>
+  <VRE_PollutionRage.stages.3.label>сильні</VRE_PollutionRage.stages.3.label>
+
+  <VRE_PollutionSustenance.label>гени токсичної адаптації травної системи</VRE_PollutionSustenance.label>
+  <VRE_PollutionSustenance.description>Ці гени призводить до мутації травної системи, від чого токсини в організмі персонажа засвоюються в невеликій кількості як поживні речовини.</VRE_PollutionSustenance.description>
+  <VRE_PollutionSustenance.stages.0.label>неативні</VRE_PollutionSustenance.stages.0.label>
+  <VRE_PollutionSustenance.stages.1.label>слабкі</VRE_PollutionSustenance.stages.1.label>
+  <VRE_PollutionSustenance.stages.2.label>середні</VRE_PollutionSustenance.stages.2.label>
+  <VRE_PollutionSustenance.stages.3.label>сильні</VRE_PollutionSustenance.stages.3.label>
+
+  <VRE_PollutionCognition.label>гени токсичної адаптації мозку</VRE_PollutionCognition.label>
+  <VRE_PollutionCognition.description>Ці гени призводить до мутації мозку, від чого токсини в організмі персонажа покращують здібності до навчання.</VRE_PollutionCognition.description>
+  <VRE_PollutionCognition.stages.0.label>неативні</VRE_PollutionCognition.stages.0.label>
+  <VRE_PollutionCognition.stages.1.label>слабкі</VRE_PollutionCognition.stages.1.label>
+  <VRE_PollutionCognition.stages.2.label>середні</VRE_PollutionCognition.stages.2.label>
+  <VRE_PollutionCognition.stages.3.label>сильні</VRE_PollutionCognition.stages.3.label>
+
+  <VRE_PollutionNumbness.label>гени токсичної адаптації нервової системи</VRE_PollutionNumbness.label>
+  <VRE_PollutionNumbness.description>Ці гени призводить до мутації нервової системи, від чого токсини в організмі персонажа знижують больові відчуття.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VRE_PollutionNumbness.description>
+  <VRE_PollutionNumbness.stages.0.label>неативні</VRE_PollutionNumbness.stages.0.label>
+  <VRE_PollutionNumbness.stages.1.label>слабкі</VRE_PollutionNumbness.stages.1.label>
+  <VRE_PollutionNumbness.stages.2.label>середні</VRE_PollutionNumbness.stages.2.label>
+  <VRE_PollutionNumbness.stages.3.label>сильні</VRE_PollutionNumbness.stages.3.label>
+
+  <VRE_PollutionHappiness.label>гени токсичної адаптації гормонів</VRE_PollutionHappiness.label>
+  <VRE_PollutionHappiness.description>Ці гени призводить до мутації деяких ділянок мозку, від чого токсини в організмі персонажа підвищують настрій.</VRE_PollutionHappiness.description>
+  <VRE_PollutionHappiness.stages.0.label>неативні</VRE_PollutionHappiness.stages.0.label>
+  <VRE_PollutionHappiness.stages.1.label>слабкі</VRE_PollutionHappiness.stages.1.label>
+  <VRE_PollutionHappiness.stages.2.label>середні</VRE_PollutionHappiness.stages.2.label>
+  <VRE_PollutionHappiness.stages.3.label>сильні</VRE_PollutionHappiness.stages.3.label>
+
+  <VRE_PollutionProductivity.label>гени токсичної адаптації спинного мозку</VRE_PollutionProductivity.label>
+  <VRE_PollutionProductivity.description>Ці гени призводить до мутації спинного мозку, від чого токсини в організмі персонажа пришвидшують фізичну діяльність.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VRE_PollutionProductivity.description>
+  <VRE_PollutionProductivity.stages.0.label>неативні</VRE_PollutionProductivity.stages.0.label>
+  <VRE_PollutionProductivity.stages.1.label>слабкі</VRE_PollutionProductivity.stages.1.label>
+  <VRE_PollutionProductivity.stages.2.label>середні</VRE_PollutionProductivity.stages.2.label>
+  <VRE_PollutionProductivity.stages.3.label>сильні</VRE_PollutionProductivity.stages.3.label>
+
+  <VRE_PollutionPsySensitivity.label>гени токсичної адаптації пси-чутливих ділянок мозку</VRE_PollutionPsySensitivity.label>
+  <VRE_PollutionPsySensitivity.description>Ці гени призводить до мутації пси-чутливих ділянок мозку, від чого токсини в організмі персонажа сприяють покращенню пси-чутливості.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VRE_PollutionPsySensitivity.description>
+  <VRE_PollutionPsySensitivity.stages.0.label>неативні</VRE_PollutionPsySensitivity.stages.0.label>
+  <VRE_PollutionPsySensitivity.stages.1.label>слабкі</VRE_PollutionPsySensitivity.stages.1.label>
+  <VRE_PollutionPsySensitivity.stages.2.label>середні</VRE_PollutionPsySensitivity.stages.2.label>
+  <VRE_PollutionPsySensitivity.stages.3.label>сильні</VRE_PollutionPsySensitivity.stages.3.label>
+
+  <VRE_PollutionFertility.label>гени токсичної адаптації репродуктивних органів</VRE_PollutionFertility.label>
+  <VRE_PollutionFertility.description>Ці гени призводить до мутації репродуктивних органів, від чого токсини в організмі персонажа покращують репродуктивність.</VRE_PollutionFertility.description>
+  <VRE_PollutionFertility.stages.0.label>неативні</VRE_PollutionFertility.stages.0.label>
+  <VRE_PollutionFertility.stages.1.label>слабкі</VRE_PollutionFertility.stages.1.label>
+  <VRE_PollutionFertility.stages.2.label>середні</VRE_PollutionFertility.stages.2.label>
+  <VRE_PollutionFertility.stages.3.label>сильні</VRE_PollutionFertility.stages.3.label>
+
+  <VRE_PollutionAccuracy.label>гени токсичної адаптації очей</VRE_PollutionAccuracy.label>
+  <VRE_PollutionAccuracy.description>Ці гени призводить до мутації очей, від чого токсини в організмі персонажа покращують зір.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VRE_PollutionAccuracy.description>
+  <VRE_PollutionAccuracy.stages.0.label>неативні</VRE_PollutionAccuracy.stages.0.label>
+  <VRE_PollutionAccuracy.stages.1.label>слабкі</VRE_PollutionAccuracy.stages.1.label>
+  <VRE_PollutionAccuracy.stages.2.label>середні</VRE_PollutionAccuracy.stages.2.label>
+  <VRE_PollutionAccuracy.stages.3.label>сильні</VRE_PollutionAccuracy.stages.3.label>
+
+
+</LanguageData>

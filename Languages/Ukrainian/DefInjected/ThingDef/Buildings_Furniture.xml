@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_BurnBarrel.label>палаюча діжка</VRE_BurnBarrel.label>
+  <VRE_BurnBarrel.description>A sturdy metal container designed for incinerating wastepacks. As it burns, it emits pollution and releases toxic gases, contaminating the surrounding area and creating an unfavorable environment for those sensitive to pollution, while proving advantageous for carriers of pollution-adaptive genes.</VRE_BurnBarrel.description>
+  <VRE_BurnBarrel_Blueprint.label>палаюча діжка (креслення)</VRE_BurnBarrel_Blueprint.label>
+  <VRE_BurnBarrel_Frame.label>палаюча діжка (споруда)</VRE_BurnBarrel_Frame.label>
+  <VRE_BurnBarrel_Frame.description>A sturdy metal container designed for incinerating wastepacks. As it burns, it emits pollution and releases toxic gases, contaminating the surrounding area and creating an unfavorable environment for those sensitive to pollution, while proving advantageous for carriers of pollution-adaptive genes.</VRE_BurnBarrel_Frame.description>
+
+</LanguageData>

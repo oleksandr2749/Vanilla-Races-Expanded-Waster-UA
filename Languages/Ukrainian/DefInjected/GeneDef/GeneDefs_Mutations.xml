@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREW_Mutation_Randomizer.label>нестабільний гени токсичної адаптації</VREW_Mutation_Randomizer.label>
+  <VREW_Mutation_Randomizer.description>Нестабільні гени в тілі персонажа призводить до бурхливого розвитку мутацій, ймовірне винекнення від однієї до трьох випадкових мутацій.</VREW_Mutation_Randomizer.description>
+
+  <VREW_PollutionRush.label>гени токсичної адаптації серця</VREW_PollutionRush.label>
+  <VREW_PollutionRush.description>Ці гени призводить до мутації серцево-судинної системи, від чого токсини в організмі персонажа покращують швидкість руху та ясність міркувань.</VREW_PollutionRush.description>
+
+  <VREW_PollutionRegeneration.label>гени токсичної адаптації тканин</VREW_PollutionRegeneration.label>
+  <VREW_PollutionRegeneration.description>Ці гени призводить до мутації тканин органів й шкіри, від чого токсини в організмі персонажа покращують загоєння.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VREW_PollutionRegeneration.description>
+
+  <VREW_PollutionRage.label>гени токсичної адаптації м'язів</VREW_PollutionRage.label>
+  <VREW_PollutionRage.description>Ці гени призводить до мутації м'язів, від чого токсини в організмі персонажа збільшують силу.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VREW_PollutionRage.description>
+
+  <VREW_PollutionSustenance.label>гени токсичної адаптації травної системи</VREW_PollutionSustenance.label>
+  <VREW_PollutionSustenance.description>Ці гени призводить до мутації травної системи, від чого токсини в організмі персонажа засвоюються в невеликій кількості як поживні речовини.</VREW_PollutionSustenance.description>
+
+  <VREW_PollutionCognition.label>гени токсичної адаптації мозку</VREW_PollutionCognition.label>
+  <VREW_PollutionCognition.description>Ці гени призводить до мутації мозку, від чого токсини в організмі персонажа покращують здібності до навчання.</VREW_PollutionCognition.description>
+
+  <VREW_PollutionNumbness.label>гени токсичної адаптації нервової системи</VREW_PollutionNumbness.label>
+  <VREW_PollutionNumbness.description>Ці гени призводить до мутації нервової системи, від чого токсини в організмі персонажа знижують больові відчуття.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VREW_PollutionNumbness.description>
+
+  <VREW_PollutionHappiness.label>гени токсичної адаптації гормонів</VREW_PollutionHappiness.label>
+  <VREW_PollutionHappiness.description>Ці гени призводить до мутації деяких ділянок мозку, від чого токсини в організмі персонажа підвищують настрій.</VREW_PollutionHappiness.description>
+
+  <VREW_PollutionProductivity.label>гени токсичної адаптації спинного мозку</VREW_PollutionProductivity.label>
+  <VREW_PollutionProductivity.description>Ці гени призводить до мутації спинного мозку, від чого токсини в організмі персонажа пришвидшують фізичну діяльність.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VREW_PollutionProductivity.description>
+
+  <VREW_PollutionPsySensitivity.label>гени токсичної адаптації пси-чутливих ділянок мозку</VREW_PollutionPsySensitivity.label>
+  <VREW_PollutionPsySensitivity.description>Ці гени призводить до мутації пси-чутливих ділянок мозку, від чого токсини в організмі персонажа сприяють покращенню пси-чутливості.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VREW_PollutionPsySensitivity.description>
+
+  <VREW_PollutionFertility.label>гени токсичної адаптації репродуктивних органів</VREW_PollutionFertility.label>
+  <VREW_PollutionFertility.description>Ці гени призводить до мутації репродуктивних органів, від чого токсини в організмі персонажа покращують репродуктивність.</VREW_PollutionFertility.description>
+
+  <VREW_PollutionAccuracy.label>гени токсичної адаптації очей</VREW_PollutionAccuracy.label>
+  <VREW_PollutionAccuracy.description>Ці гени призводить до мутації очей, від чого токсини в організмі персонажа покращують зір.\n\nЧим сильніша інтоксикація, тим кращий ефект від мутації.</VREW_PollutionAccuracy.description>
+
+
+</LanguageData>
